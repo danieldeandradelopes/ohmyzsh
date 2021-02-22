@@ -1,7 +1,7 @@
 # My Customizations to ohmyzsh
 
 
-### sudo apt get instal zsh
+### sudo apt-get install zsh
 
 ## acessar: 
 ### https://ohmyz.sh/
