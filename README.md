@@ -1,14 +1,10 @@
 # My Customizations to ohmyzsh
 
 
-### sudo apt-get install zsh
+**Users Linux:**
 
 
-
-## acessar e seguir os passos de instalação: 
-### https://ohmyz.sh/
-
-### copiar o conteúdo do arquivo desse repositório `.zshrc` substituindo o arquivo criado na instalação.
-
-### reboot
-
+1. `sudo apt-get install zsh`
+2. Access this link: https://ohmyz.sh/ and follow the steps
+3. Replace of file `.zshrc` of your computer with file in this repository
+4. Reboot 
